@@ -2,7 +2,7 @@
 Simply docker container environment for building RDK-B Yocto distribution for RaspberryPi 4
 
 # Setup
-Initialize RDK-B Repository (you need to update you netrc file)
+Initialize RDK-B Repository (you need to update your netrc file if you didn't do it before)
 
 ```
 source init.sh
